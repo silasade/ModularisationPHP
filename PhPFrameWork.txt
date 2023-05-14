@@ -1,0 +1,10 @@
+Laravel is an easy-to-use web framework that will help you create extensible PHP-based websites and web applications at scale.
+
+Before creating a web app or website, you need to make a foundational decision as to what technology you are going to use. This is one of the trickiest parts of the web development process.
+
+To build something simple, such as an online store or portfolio, you can rely on no-code website creators. If you are looking to build something more advanced, a no-code solution might not be enough. Instead, you should choose a framework and start writing code on it. Laravel is a good choice as an easy-to-use open-source framework for building modern web applications at scale.
+
+Benefit
+Laravel’s first stable release took place in 2011 but didn’t get much attention. When Laravel 3 came out in 2012, it started to gain some hype thanks to its new features, such as Artisan CLI. Here are a few notable Laravel features that make it such a popular PHP framework among web developers.
+BUILT-IN AUTHENTICATION
+Laravel comes with a out-of-the-box solutions for authentication and authorization. With a couple of Artisan commands, you can set up  reliable and robust authentication and authorization for your web app.
